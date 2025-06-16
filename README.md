@@ -12,7 +12,7 @@ A small Python-based Discord bot that fetches and sends the latest news headline
 ## Usage
 
 Run the bot:
-   python main.py
+   python news_main.py
 
 Use the defined prefix followed by the news command to fetch the latest headlines:
    !news
